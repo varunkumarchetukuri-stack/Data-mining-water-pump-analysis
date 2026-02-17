@@ -1,2 +1,23 @@
-# Data-mining-water-pump-analysis
-End-to-end data mining project predicting water pump functionality using ML models (Logistic Regression, Random Forest, XGBoost).
+# Water Pump Failure Prediction – Data Mining Project
+
+## Objective
+Predict functional vs non-functional water pumps using classification techniques.
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- Data Cleaning
+- Feature Engineering
+
+## Models Used
+- Logistic Regression
+- Random Forest
+- XGBoost
+
+## Results
+- Best Accuracy: 79%
+- Key predictive features identified
+
+## Business Impact
+Improves maintenance planning and reduces operational downtime.
